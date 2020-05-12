@@ -1,2 +1,3 @@
 # Stepik_Home
-## Это репозиторий для домашних работ из курса на Stepik
+## This is the Stepik homework repository.
+
